@@ -73,7 +73,7 @@ const toggleFinished = (params)=>{
   return (
     <>
       <Navbar />
-      <div className="container mx-3 md:mx-auto p-5 my-5 rounded-xl bg-violet-200 min-h-[80vh] md:w-1/2">
+      <div className="container mx-5 md:mx-auto p-5 my-5 rounded-xl bg-violet-200 min-h-[80vh] w-[90%] md:w-1/2">
         <div className="harry my-5 flex flex-col gap-4">
           <h1 className="font-bold text-xl text-center">sTask-Manage Your Todo's at One Place</h1>
           <h2 className='text-lg font-bold'>Add a Todo</h2>
